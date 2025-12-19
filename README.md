@@ -1,4 +1,5 @@
 # Financial Modeling & Valuation of Hindustan Unilever Limited (HUL)
+- Direct link to the model - <a href="https://docs.google.com/spreadsheets/d/1ogY_cWe62XoPh8GJMrCYj9FVVfSJrxPN/edit?usp=sharing&ouid=113405962133547581563&rtpof=true&sd=true">HUL Financial Model </a>
 ## Project Overview
 This project involves building an end-to-end financial model for Hindustan Unilever Limited (HUL) using historical financial statements. The model includes financial statement analysis, ratio analysis, forecasting, and valuation, with the objective of understanding the company’s financial performance, efficiency, and valuation metrics.
 The analysis is entirely Excel-driven, following best practices used in equity research and corporate finance.
