@@ -4,11 +4,11 @@ This project involves building an end-to-end financial model for Hindustan Unile
 The analysis is entirely Excel-driven, following best practices used in equity research and corporate finance.
 
 ## Objectives of the Project
-To analyze HUL’s historical financial performance
-To understand profitability, efficiency, liquidity, and solvency trends
-To build forward-looking financial projections
-To estimate the company’s intrinsic value using valuation techniques
-To interpret results from an investor and analyst perspective
+- To analyze HUL’s historical financial performance
+- To understand profitability, efficiency, liquidity, and solvency trends
+- To build forward-looking financial projections
+- To estimate the company’s intrinsic value using valuation techniques
+- To interpret results from an investor and analyst perspective
 
 ## Key Questions Answered in This Model
 ### Financial Performance
