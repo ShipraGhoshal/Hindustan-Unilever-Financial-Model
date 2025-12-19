@@ -49,3 +49,4 @@ This project demonstrates my ability to analyze real-world companies, build stru
 
 ## References
 - <a href="https://www.bseindia.com/xml-data/corpfiling/AttachHis/770bf03e-526d-45d8-8364-13f7fc523289.pdf">HUL Annual Report 2025 </a>
+- <a href="https://www.screener.in/company/HINDUNILVR/consolidated/">Screener </a>
