@@ -11,11 +11,11 @@ To estimate the company’s intrinsic value using valuation techniques
 To interpret results from an investor and analyst perspective
 
 ## Key Questions Answered in This Model
-# Financial Performance
+### Financial Performance
 How has HUL’s revenue, EBITDA, and net profit grown over time?
 Are margins improving or deteriorating, and why?
 How stable is the company’s earnings profile?
-# Profitability & Efficiency
+### Profitability & Efficiency
 How efficient is HUL in generating profits from its assets and equity (ROE, ROA)?
 What do operating and net profit margins indicate about cost control?
 Is the company becoming more capital efficient over time?
