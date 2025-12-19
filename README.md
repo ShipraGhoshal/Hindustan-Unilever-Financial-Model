@@ -26,7 +26,7 @@ How strong is the balance sheet in terms of leverage and financial risk?
 What are the key drivers behind future revenue and profit growth?
 How do assumptions impact projected financial statements?
 ### Valuation
-Is HUL fairly valued based on relative valuation metrics (P/E, P/B, EV multiples)?
+Is HUL fairly valued based on relative valuation metrics (P/E, EV multiples)?
 How does the implied valuation compare with market expectations?
 
 ## Tools & Skills Used
