@@ -19,16 +19,17 @@ How stable is the company’s earnings profile?
 How efficient is HUL in generating profits from its assets and equity (ROE, ROA)?
 What do operating and net profit margins indicate about cost control?
 Is the company becoming more capital efficient over time?
-# Liquidity & Solvency
+### Liquidity & Solvency
 Does HUL have sufficient liquidity to meet short-term obligations?
 How strong is the balance sheet in terms of leverage and financial risk?
-# Growth & Forecasting
+### Growth & Forecasting
 What are the key drivers behind future revenue and profit growth?
 How do assumptions impact projected financial statements?
-# Valuation
+### Valuation
 Is HUL fairly valued based on relative valuation metrics (P/E, P/B, EV multiples)?
 How does the implied valuation compare with market expectations?
-# Tools & Skills Used
+
+## Tools & Skills Used
 Microsoft Excel (advanced formulas & structured modeling)
 Financial Statement Analysis
 Ratio Analysis
